@@ -1,0 +1,43 @@
+{
+    "includeVettingStatus": [
+        "available supply",
+        "passed coding challenge",
+        "passed ti",
+        "pre-screen interview",
+        "pre-screening",
+        "scheduling pre-screening",
+        "Semi-vetted: Available Supply",
+        "Semi-vetted: Standardized Resume",
+        "standardized resume"
+    ],
+    "jobId": 13570,
+    "searchAnywhereParameters": {"mustHaveWords": ["Java","Microservices","Spring Boot"], "shouldHaveWords": null},
+    "skillKeywordSearch": {
+        "mustHave": [[{"skillId": 29, "keyword": "Java"}], [{"skillId": 305, "keyword": "Microservices"}], [{"skillId": 400, "keyword": "Spring Boot"}]]
+    },
+    "includeDevelopersWithoutRates": true,
+    "pageNumber": 1,
+    "pageSize": 10000,
+    "calculatedYearsOfExperience": 0,
+    "hourlyRateIntervalType": "lte",
+    "version": "SEARCH_V2",
+    "filterTechLead": false,
+    "filterLinkedAccountJobMatches": false,
+    "createdDateIntervalType": "gte",
+    "experience": {"min": 0, "max": null, "includeNullValue": true},
+    "debug": false,
+    "featureFlags": {
+        "matching-enable-cache": false,
+        "matching-ranker": "GBDT Ranker V9B",
+        "matching-use-vertex-ai": true
+    },
+    "roleTypeIds": null,
+    "cloudCertifications": {"certificationIds": null},
+    "mustHaveSelfDeclaredSkills": null,
+    "needQuickRematch": false,
+    "includeExpiredAvailabilityDevs": true,
+    "includeDevsWithoutNoticePeriod": true,
+    "noticePeriod": null,
+    "userId": 1031,
+    "filterPreShortlisted": false
+}
